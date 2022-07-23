@@ -6,6 +6,7 @@ using namespace std;
 
 int index;
 
+
 bool cmp(string a, string b)
 {
     if (a[index] == b[index]) return a < b;
